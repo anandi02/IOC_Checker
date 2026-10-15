@@ -1,0 +1,6 @@
+type,value,result
+ip,203.0.113.15,MATCH - REVIEW
+ip,192.168.1.10,NO MATCH
+domain,malware.example,MATCH - REVIEW
+domain,google.com,NO MATCH
+hash,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,MATCH - REVIEW
